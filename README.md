@@ -73,17 +73,6 @@ Currently focusing on **Python**, **AI**, **Mobile development**, and **Secure b
 
 ---
 
-## 📊 **GitHub Stats**
-
-(You can enable these by adding them after generating a GitHub token or using public stats)
-
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salomon-tech&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?usalomon-tech=YOUR_USERNAME&layout=compact&theme=tokyonight)
-```
-
----
-
 ## 🌱 **Currently Learning**
 
 - Advanced AI (TensorFlow)
