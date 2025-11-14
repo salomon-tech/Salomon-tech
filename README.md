@@ -98,10 +98,10 @@ If you have an idea or want to build something cool together, feel free to reach
 
 ## 📫 **Contact Me**
 
-📧 Email: _your-email-here_
+📧 Email: salomondev7@gmail.com
 🌐 Portfolio (coming soon)
-💼 LinkedIn: _your-link-here_
-🐙 GitHub: **github.com/YOUR_USERNAME**
+💼 LinkedIn: https://www.linkedin.com/in/salomon-mbilizi-51624b2a3/
+🐙 GitHub: **github.com/salomon-tech**
 
 ---
 
