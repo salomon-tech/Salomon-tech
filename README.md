@@ -78,8 +78,8 @@ Currently focusing on **Python**, **AI**, **Mobile development**, and **Secure b
 (You can enable these by adding them after generating a GitHub token or using public stats)
 
 ```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salomon-tech&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?usalomon-tech=YOUR_USERNAME&layout=compact&theme=tokyonight)
 ```
 
 ---
